@@ -1,7 +1,16 @@
+
+<h1 align="center"> 
+     Proffy
+</h1>
+<h3 align="center"> 
+     Plataforma de estudos online
+</h3>
+
+<hr/>
+
 <p align="center">  
-[![Linkedin Badge](https://img.shields.io/badge/-filipelbatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipelbatista/)](https://www.linkedin.com/in/filipelbatista/) 
-&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-filipe.x2016@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipe.x2016@gmail.com)](mailto:filipe.x2016@gmail.com)
+    <a href="https://www.linkedin.com/in/filipelbatista/" target="_blanc">Linkedin</a> | 
+    <a href="mailto:filipe.x2016@gmail.com" target="_blanc">Gmail</a>
 </p>
 
 <hr/>
@@ -20,6 +29,10 @@
 Projeto desenvolvido durante a Next Level Week 2, da <a target="_blank" href="https://rocketseat.com.br">Rocketseat
 
 ---
+
+<p align="center">  
+    Back-end | Front-end Web | Front-end Mobile
+</p>
 
 ---
 
